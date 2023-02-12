@@ -2,3 +2,4 @@
 build
 cmake-build-*
 sdkconfig.old
+.DS_Store
